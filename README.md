@@ -1,6 +1,7 @@
 final project - PaOLO LAURICELLA
 Submitted by: Paolo Lauricella*
-
+Note for my personl file project and spring couldt be copied over from the codepaths repo with all my work and project path outlines figruing out how to copy or if they will 
+let me make that one public 
 Sound exchange
 
 Time spent: 30 hours spent in total
